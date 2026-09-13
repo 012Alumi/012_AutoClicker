@@ -17,8 +17,8 @@
 
 ---
 
-### 📥 立即下載最新版本 (Download)
-[👉 **前往 Releases 發行版頁面下載**](https://github.com/012Alumi/012_AutoClicker/releases)
+### 📥 Download the latest version now (下載)
+[👉 **Go to the Releases page to download**](https://github.com/012Alumi/012_AutoClicker/releases)
 
 ---
 

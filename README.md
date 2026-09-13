@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ 012 Auto Clicker / 連點器
+# ⚡ 012 Auto Clicker
 
 **極速・賽博暗夜風格・多國語言・全功能防作弊安全連點器**
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-[ 🇹🇼 繁體中文 ](#-繁體中文) &nbsp;|&nbsp; [ 🇺🇸 English ](#-english) &nbsp;|&nbsp; [ 🇯🇵 日本語 ](#-日本語)
+ [ 🇺🇸 English ](#-english) &nbsp;|&nbsp; [ 🇹🇼 繁體中文 ](#-繁體中文) &nbsp;|&nbsp; [ 🇯🇵 日本語 ](#-日本語)
 
 <br/>
 

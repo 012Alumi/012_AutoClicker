@@ -2,7 +2,7 @@
 
 # ⚡ 012 Auto Clicker
 
-**極速・賽博暗夜風格・多國語言・全功能防作弊安全連點器**
+**High-speed, multilingual, fully-featured anti-cheat security auto-clicker**
 
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-00f0ff?style=for-the-badge&logo=apple&logoColor=white)]()
 [![Release](https://img.shields.io/badge/Release-v1.0-00e676?style=for-the-badge&logo=github)]()
